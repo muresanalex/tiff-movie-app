@@ -1,0 +1,119 @@
+.watchlist-container {
+    float: left;
+}
+
+.button-watchlist {
+    margin-left: -1px;
+}
+
+.watchlist {
+    display: none;
+    position: fixed;
+    top: 41px;
+    left: 145px;
+    width: 450px;
+    max-height: 800px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+    overflow-y: auto;
+}
+
+.watchlist ul {
+    margin: 0 5px;
+    padding: 0;
+}
+
+.watchlist li {
+    list-style-type: none;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color .3s;
+    overflow: hidden;
+    width: 100%;
+    height: 75px;
+    float: left;
+}
+
+.watchlist li:hover {
+    background: #eee;
+}
+
+.watchlist-movie {
+    display: block;
+    float: left;
+    height: 75px;
+    width: 100%;
+}
+
+.movie-poster {
+    width: 20%;
+    height: 65px;
+    margin: 1%;
+    outline: 1px solid #ddd;
+    float: left;
+    overflow: hidden;
+}
+
+.movie-poster img {
+    width: 100%;
+}
+
+.movie-details {
+    height: 65px;
+    width: 60%;
+    margin: 1%;
+    float: left;
+    font-size: 16px;
+}
+
+.movie-details span {
+    display: block;
+}
+
+.movie-title {
+    font-weight: bold;
+}
+
+.trash {
+    height: 75px;
+    width: 16%;
+    float: left;
+}
+
+.trash:hover {
+    background: #ccc;
+}
+
+.trash img {
+    height: 60%;
+    margin: 15px 13px;
+}
+
+.display-watchlist .watchlist {
+    display: block;
+}
+
+.watchlist .empty-watchlist {
+    border: none;
+    color: #555;
+    display: block;
+    cursor: auto;
+}
+
+.watchlist .empty-watchlist:hover {
+    background: #fff;
+}
+
+.watchlist.remove-empty .empty-watchlist {
+    display: none;
+}
+
+.empty-watchlist {
+    text-align: center;
+}
+
+.empty-watchlist span {
+    line-height: 75px;
+}

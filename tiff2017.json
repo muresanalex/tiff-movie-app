@@ -1,0 +1,893 @@
+[
+   {
+      "titleOriginal":"( POUR LA PEAU D’UN FLIC )",
+      "titleRo":"AFACEREA PIGOT",
+      "country":"FRANŢA ",
+      "year":"1981",
+      "url":"/film/afacerea-pigot",
+      "id":1,
+      "ytUrl":"https://www.youtube.com/embed/BP7cZ0CHXaQ"
+   },
+   {
+      "titleOriginal":"( BAAHUBALI 2: THE CONCLUSION )",
+      "titleRo":"BAAHUBALI 2: FINALUL",
+      "country":"INDIA ",
+      "year":"2016",
+      "url":"/film/baahubali-2-finalul",
+      "id":2,
+      "ytUrl":"https://www.youtube.com/embed/G62HrubdD6o"
+   },
+   {
+      "titleOriginal":"( CALIFORNIA DREAMIN’ (ENDLESS) )",
+      "titleRo":"CALIFORNIA DREAMIN’ (NESFÂRŞIT)",
+      "country":"ROMÂNIA ",
+      "year":"2007",
+      "url":"/film/california-dreamin-nesfarsit",
+      "id":3,
+      "ytUrl":"https://www.youtube.com/embed/75NoNVMkQwU"
+   },
+   {
+      "titleOriginal":"( KING OF THE BELGIANS )",
+      "titleRo":"REGELE BELGIEI",
+      "country":"BELGIA, OLANDA, BULGARIA ",
+      "year":"2016",
+      "url":"/film/regele-belgiei",
+      "id":4,
+      "ytUrl":"https://www.youtube.com/embed/DJa5C0_CqQI"
+   },
+   {
+      "titleOriginal":"( QUE DIOS NOS PERDONE )",
+      "titleRo":"DUMNEZEU SĂ NE IERTE",
+      "country":"SPANIA ",
+      "year":"2016",
+      "url":"/film/dumnezeu-sa-ne-ierte",
+      "id":5,
+      "ytUrl":"https://www.youtube.com/embed/oDi16FTe66s"
+   },
+   {
+      "titleOriginal":"( DALIDA )",
+      "titleRo":"DALIDA",
+      "country":"FRANŢA ",
+      "year":"2017",
+      "url":"/film/dalida",
+      "id":6,
+      "ytUrl":"https://www.youtube.com/embed/1Bsm9wM1560"
+   },
+   {
+      "titleOriginal":"( MILJEONG )",
+      "titleRo":"IMPERIUL UMBRELOR",
+      "country":"COREEA DE SUD  ",
+      "year":"2016",
+      "url":"/film/imperiul-umbrelor",
+      "id":7,
+      "ytUrl":"https://www.youtube.com/embed/zoYsQcGV4b4"
+   },
+   {
+      "titleOriginal":"( LA PAZZA GIOIA )",
+      "titleRo":"NEBUNE DE FERICIRE",
+      "country":"ITALIA, FRANŢA  ",
+      "year":"2016",
+      "url":"/film/nebune-de-fericire",
+      "id":8,
+      "ytUrl":"https://www.youtube.com/embed/0eJCz9a4p9k"
+   },
+   {
+      "titleOriginal":"( THE HISTORY OF LOVE )",
+      "titleRo":"POVESTEA IUBIRII",
+      "country":"FRANŢA, CANADA, ROMÂNIA, SUA  ",
+      "year":"2016",
+      "url":"/film/povestea-iubirii",
+      "id":9,
+      "ytUrl":"https://www.youtube.com/embed/3cP87XFDOWw"
+   },
+   {
+      "titleOriginal":"( TWIN PEAKS: FIRE WALK WITH ME )",
+      "titleRo":"TWIN PEAKS: ULTIMELE 7 ZILE DIN VIAŢA LAUREI PALMER",
+      "country":"SUA ",
+      "year":"1992",
+      "url":"/film/twin-peaks-ultimele-7-zile-din-viata-laurei-palmer",
+      "id":10,
+      "ytUrl":"https://www.youtube.com/embed/snP5dMsFoAY"
+   },
+   {
+      "titleOriginal":"( QUE DIOS NOS PERDONE )",
+      "titleRo":"DUMNEZEU SĂ NE IERTE",
+      "country":"SPANIA ",
+      "year":"2016",
+      "url":"/film/dumnezeu-sa-ne-ierte",
+      "id":11,
+      "ytUrl":"https://www.youtube.com/embed/oDi16FTe66s"
+   },
+   {
+      "titleOriginal":"( LAS TONINAS VAN AL ESTE )",
+      "titleRo":"DELFINII ÎNOATĂ SPRE EST",
+      "country":"URUGUAY, ARGENTINA, GERMANIA  ",
+      "year":"2016",
+      "url":"/film/delfinii-inoata-spre-est",
+      "id":12,
+      "ytUrl":"https://www.youtube.com/embed/2nOKpaZM3kw"
+   },
+   {
+      "titleOriginal":"( CHEMI BEDINIERI OJAKHI )",
+      "titleRo":"FAMILIA MEA FERICITĂ",
+      "country":"GEORGIA, GERMANIA, FRANŢA ",
+      "year":"2017",
+      "url":"/film/familia-mea-fericita",
+      "id":13,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( SLAVA )",
+      "titleRo":"GLORIA",
+      "country":"BULGARIA, GRECIA  ",
+      "year":"2016",
+      "url":"/film/gloria",
+      "id":14,
+      "ytUrl":"https://www.youtube.com/embed/_fmm7i05z88"
+   },
+   {
+      "titleOriginal":"( HOUNDS OF LOVE )",
+      "titleRo":"TORTURA",
+      "country":"AUSTRALIA ",
+      "year":"2016",
+      "url":"/film/tortura",
+      "id":15,
+      "ytUrl":"https://www.youtube.com/embed/UNEurXzvHqE"
+   },
+   {
+      "titleOriginal":"( HJARTASTEINN )",
+      "titleRo":"PIATRĂ PE INIMĂ",
+      "country":"DANEMARCA, ISLANDA ",
+      "year":"2016",
+      "url":"/film/piatra-pe-inima",
+      "id":16,
+      "ytUrl":"https://www.youtube.com/embed/NFEXdZF_c7Q"
+   },
+   {
+      "titleOriginal":"( EL REI BORNI )",
+      "titleRo":"REGELE FĂRĂ UN OCHI",
+      "country":"SPANIA ",
+      "year":"2016",
+      "url":"/film/regele-fara-un-ochi",
+      "id":17,
+      "ytUrl":"https://www.youtube.com/embed/eDb6ZWoB6hw"
+   },
+   {
+      "titleOriginal":"( TAMAROZ )",
+      "titleRo":"SIMULAREA",
+      "country":"IRAN ",
+      "year":"2017",
+      "url":"/film/simularea",
+      "id":18,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( GOD’S OWN COUNTRY )",
+      "titleRo":"TĂRÂMUL BINECUVÂNTAT",
+      "country":"MAREA BRITANIE ",
+      "year":"2017",
+      "url":"/film/taramul-binecuvantat",
+      "id":19,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( MEDINAT HAGAMADIM )",
+      "titleRo":"TĂRÂMUL CELOR MICI",
+      "country":"ISRAEL, PALESTINA  ",
+      "year":"2016",
+      "url":"/film/taramul-celor-mici",
+      "id":20,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( PLAC ZABAW )",
+      "titleRo":"TEREN DE JOACĂ",
+      "country":"POLONIA ",
+      "year":"2016",
+      "url":"/film/teren-de-joaca",
+      "id":21,
+      "ytUrl":"https://www.youtube.com/embed/Qs_VjVar5t4"
+   },
+   {
+      "titleOriginal":"( CHAS KHRIZANTEM )",
+      "titleRo":"VREMEA CRIZANTEMELOR",
+      "country":"UCRAINA ",
+      "year":"2016",
+      "url":"/film/vremea-crizantemelor",
+      "id":22,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( ZEUS )",
+      "titleRo":"ZEUS",
+      "country":"MEXIC ",
+      "year":"2016",
+      "url":"/film/zeus",
+      "id":23,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( UCHENIK )",
+      "titleRo":"(M)UCENICUL",
+      "country":"Rusia ",
+      "year":"2016",
+      "url":"/film/mucenicul",
+      "id":24,
+      "ytUrl":"https://www.youtube.com/embed/yKpjv6zTeVk"
+   },
+   {
+      "titleOriginal":"( EL CIUDADANO ILUSTRE )",
+      "titleRo":"CETĂŢEANUL DE ONOARE",
+      "country":"Argentina, Spania ",
+      "year":"2016",
+      "url":"/film/cetateanul-de-onoare",
+      "id":25,
+      "ytUrl":"https://www.youtube.com/embed/rm6p9-C47cE"
+   },
+   {
+      "titleOriginal":"( GLEISSENDES GLÜCK )",
+      "titleRo":"EXTAZ PRIMORDIAL",
+      "country":"Germania ",
+      "year":"2016",
+      "url":"/film/extaz-primordial",
+      "id":26,
+      "ytUrl":"https://www.youtube.com/embed/WXYwMdltOd4"
+   },
+   {
+      "titleOriginal":"( FRANTZ )",
+      "titleRo":"FRANTZ",
+      "country":"FRANŢA, GERMANIA  ",
+      "year":"2016",
+      "url":"/film/frantz",
+      "id":27,
+      "ytUrl":"https://www.youtube.com/embed/Mytb1Ms7KLI"
+   },
+   {
+      "titleOriginal":"( I BLODET )",
+      "titleRo":"ÎN SÂNGE",
+      "country":"DANEMARCA ",
+      "year":"2016",
+      "url":"/film/sange",
+      "id":28,
+      "ytUrl":"https://www.youtube.com/embed/U2zSi--_kJw"
+   },
+   {
+      "titleOriginal":"( L’OMBRE DES FEMMES )",
+      "titleRo":"ÎN UMBRA FEMEILOR",
+      "country":"FRANŢA ",
+      "year":"2015",
+      "url":"/film/umbra-femeilor",
+      "id":29,
+      "ytUrl":"https://www.youtube.com/embed/OiOnxv30iHk"
+   },
+   {
+      "titleOriginal":"( FROST )",
+      "titleRo":"ÎNGHEŢUL",
+      "country":"LITUANIA, FRANŢA, UCRAINA, POLONIA  ",
+      "year":"2017",
+      "url":"/film/inghetul-0",
+      "id":30,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( JEANNETTE, L’ENFANCE DE JEANNE D’ARC )",
+      "titleRo":"JEANNETTE, COPILĂRIA IOANEI D'ARC",
+      "country":"FRANŢA ",
+      "year":"2017",
+      "url":"/film/jeannette-copilaria-ioanei-darc",
+      "id":31,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( EIĐURINN )",
+      "titleRo":"JURĂMÂNTUL",
+      "country":"ISLANDA ",
+      "year":"2016",
+      "url":"/film/juramantul",
+      "id":32,
+      "ytUrl":"https://www.youtube.com/embed/D7ubC5k4YHA"
+   },
+   {
+      "titleOriginal":"( MINISTARVO LJUBAVI )",
+      "titleRo":"MINISTERUL IUBIRII",
+      "country":"CROAŢIA, CEHIA, SLOVENIA ",
+      "year":"2016",
+      "url":"/film/ministerul-iubirii",
+      "id":33,
+      "ytUrl":"https://www.youtube.com/embed/mpvDrEyTNL8"
+   },
+   {
+      "titleOriginal":"( NERUDA )",
+      "titleRo":"NERUDA",
+      "country":"CHILE, ARGENTINA, FRANŢA, SPANIA ",
+      "year":"2016",
+      "url":"/film/neruda",
+      "id":34,
+      "ytUrl":"https://www.youtube.com/embed/2gFbcBnXx8o"
+   },
+   {
+      "titleOriginal":"( NOCES )",
+      "titleRo":"O NUNTĂ",
+      "country":"BELGIA, FRANŢA, LUXEMBURG, PAKISTAN  ",
+      "year":"2016",
+      "url":"/film/o-nunta",
+      "id":35,
+      "ytUrl":"https://www.youtube.com/embed/pc4RZXtpHfw"
+   },
+   {
+      "titleOriginal":"( THE PARTY )",
+      "titleRo":"PETRECEREA",
+      "country":"MAREA BRITANIE  ",
+      "year":"2017",
+      "url":"/film/petrecerea",
+      "id":36,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( UCITELKA )",
+      "titleRo":"PROFESOARA",
+      "country":"SLOVACIA, CEHIA  ",
+      "year":"2016",
+      "url":"/film/profesoara",
+      "id":37,
+      "ytUrl":"https://www.youtube.com/embed/Xa5o5dbDADE"
+   },
+   {
+      "titleOriginal":"( REKVIJEM ZA GOSPODJU J. )",
+      "titleRo":"RECVIEM PENTRU DOAMNA J",
+      "country":"SERBIA, MACEDONIA, BULGARIA, FRANŢA, RUSIA  ",
+      "year":"2017",
+      "url":"/film/recviem-pentru-doamna-j",
+      "id":38,
+      "ytUrl":"https://www.youtube.com/embed/bzB3AepRQ_U"
+   },
+   {
+      "titleOriginal":"( SÁMI BLOOD )",
+      "titleRo":"SÂNGE DE LAPON",
+      "country":"SUEDIA, DANEMARCA, NORVEGIA ",
+      "year":"2016",
+      "url":"/film/sange-de-lapon",
+      "id":39,
+      "ytUrl":"https://www.youtube.com/embed/fdRxwAqK6G8"
+   },
+   {
+      "titleOriginal":"( OSTATNIA RODZINA )",
+      "titleRo":"ULTIMA FAMILIE",
+      "country":"POLONIA ",
+      "year":"2016",
+      "url":"/film/ultima-familie",
+      "id":40,
+      "ytUrl":"https://www.youtube.com/embed/XfFt9RfO9Bc"
+   },
+   {
+      "titleOriginal":"( ESTIU 1993 )",
+      "titleRo":"VARA LUI 1993",
+      "country":"SPANIA ",
+      "year":"2017",
+      "url":"/film/vara-lui-1993",
+      "id":41,
+      "ytUrl":"https://www.youtube.com/embed/YAnezFuhUBs"
+   },
+   {
+      "titleOriginal":"( UNE VIE )",
+      "titleRo":"O VIAŢĂ",
+      "country":"FRANŢA, BELGIA  ",
+      "year":"2016",
+      "url":"/film/o-viata",
+      "id":42,
+      "ytUrl":"https://www.youtube.com/embed/PeXG16MUBiE"
+   },
+   {
+      "titleOriginal":"( WILDE MAUS )",
+      "titleRo":"ŞOARECE DE CÂMP",
+      "country":"AUSTRIA, GERMANIA  ",
+      "year":"2016",
+      "url":"/film/soarece-de-camp",
+      "id":43,
+      "ytUrl":"https://www.youtube.com/embed/bf-colU4kCg"
+   },
+   {
+      "titleOriginal":"( JOURS DE FRANCE )",
+      "titleRo":"4 ZILE ÎN FRANŢA",
+      "country":"FRANŢA ",
+      "year":"2016",
+      "url":"/film/4-zile-franta",
+      "id":44,
+      "ytUrl":"https://www.youtube.com/embed/uTx_C78W4mI"
+   },
+   {
+      "titleOriginal":"( LAAVOR ET HAKIR )",
+      "titleRo":"CĂSĂTORIE CU OBSTACOLE",
+      "country":"ISRAEL ",
+      "year":"2016",
+      "url":"/film/casatorie-cu-obstacole",
+      "id":45,
+      "ytUrl":"https://www.youtube.com/embed/LkLSjQezK4M"
+   },
+   {
+      "titleOriginal":"( AFTERLOV )",
+      "titleRo":"DEZÎNDRĂGOSTIRE",
+      "country":"GRECIA ",
+      "year":"2016",
+      "url":"/film/dezindragostire",
+      "id":46,
+      "ytUrl":"https://www.youtube.com/embed/bcqQ_Sek22g"
+   },
+   {
+      "titleOriginal":"( L’EFFET AQUATIQUE )",
+      "titleRo":"EFECTUL ACVATIC",
+      "country":"FRANŢA, ISLANDA ",
+      "year":"2016",
+      "url":"/film/efectul-acvatic",
+      "id":47,
+      "ytUrl":"https://www.youtube.com/embed/VI72mDmfTtY"
+   },
+   {
+      "titleOriginal":"( DIE BLUMEN VON GESTERN )",
+      "titleRo":"FLORILE DE IERI",
+      "country":"GERMANIA, AUSTRIA  ",
+      "year":"2016",
+      "url":"/film/florile-de-ieri",
+      "id":48,
+      "ytUrl":"https://www.youtube.com/embed/jb1nhf97TDQ"
+   },
+   {
+      "titleOriginal":"( AMOR CUESTA ARRIBA )",
+      "titleRo":"PE CULMILE IUBIRII",
+      "country":"VENEZUELA ",
+      "year":"2015",
+      "url":"/film/pe-culmile-iubirii",
+      "id":49,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( PARIS PIEDS NUS )",
+      "titleRo":"PIERDUŢI ÎN PARIS",
+      "country":"FRANŢA, BELGIA  ",
+      "year":"2016",
+      "url":"/film/pierduti-paris",
+      "id":50,
+      "ytUrl":"https://www.youtube.com/embed/5ZELKslcUWg"
+   },
+   {
+      "titleOriginal":"( SLASH )",
+      "titleRo":"SLASH",
+      "country":"SUA ",
+      "year":"2016",
+      "url":"/film/slash",
+      "id":51,
+      "ytUrl":"https://www.youtube.com/embed/hIdmBADxXQU"
+   },
+   {
+      "titleOriginal":"( IT HAD TO BE YOU )",
+      "titleRo":"TU ŞI NUMAI TU",
+      "country":"SUA ",
+      "year":"2015",
+      "url":"/film/tu-si-numai-tu",
+      "id":52,
+      "ytUrl":"https://www.youtube.com/embed/skUILrCSwtw"
+   },
+   {
+      "titleOriginal":"( ZOOLOGIYA )",
+      "titleRo":"ZOOLOGIE",
+      "country":"RUSIA, FRANŢA, GERMANIA ",
+      "year":"2016",
+      "url":"/film/zoologie",
+      "id":53,
+      "ytUrl":"https://www.youtube.com/embed/3gYjXgV3lxw"
+   },
+   {
+      "titleOriginal":"( ANA, MON AMOUR )",
+      "titleRo":"ANA, MON AMOUR",
+      "country":"ROMÂNIA, GERMANIA, FRANŢA  ",
+      "year":"2017",
+      "url":"/film/ana-mon-amour",
+      "id":54,
+      "ytUrl":"https://www.youtube.com/embed/_ncepIB9bAo"
+   },
+   {
+      "titleOriginal":"( ANIVERSAREA )",
+      "titleRo":"ANIVERSAREA",
+      "country":"ROMÂNIA ",
+      "year":"2017",
+      "url":"/film/aniversarea",
+      "id":55,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( BREAKING NEWS )",
+      "titleRo":"BREAKING NEWS",
+      "country":"ROMÂNIA ",
+      "year":"2017",
+      "url":"/film/breaking-news",
+      "id":56,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( CAMERA OBSCURA )",
+      "titleRo":"CAMERA OBSCURA",
+      "country":"ROMÂNIA ",
+      "year":"2016",
+      "url":"/film/camera-obscura",
+      "id":57,
+      "ytUrl":"https://www.youtube.com/embed/EmUdsQwVRPY"
+   },
+   {
+      "titleOriginal":"( FIXEUR )",
+      "titleRo":"FIXEUR",
+      "country":"ROMÂNIA, FRANŢA  ",
+      "year":"2016",
+      "url":"/film/fixeur",
+      "id":58,
+      "ytUrl":"https://www.youtube.com/embed/4c7R3GzrXFI"
+   },
+   {
+      "titleOriginal":"( INIMI CICATRIZATE )",
+      "titleRo":"INIMI CICATRIZATE",
+      "country":"ROMÂNIA ",
+      "year":"2016",
+      "url":"/film/inimi-cicatrizate",
+      "id":59,
+      "ytUrl":"https://www.youtube.com/embed/Fjt8-HPIAD8"
+   },
+   {
+      "titleOriginal":"( OUĂLE LUI TARZAN )",
+      "titleRo":"OUĂLE LUI TARZAN",
+      "country":"ROMÂNIA, FRANŢA  ",
+      "year":"2017",
+      "url":"/film/ouale-lui-tarzan",
+      "id":60,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( PLANETA PETRILA )",
+      "titleRo":"PLANETA PETRILA",
+      "country":"ROMÂNIA ",
+      "year":"2016",
+      "url":"/film/planeta-petrila",
+      "id":61,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( PROCESUL )",
+      "titleRo":"PROCESUL",
+      "country":"ROMÂNIA ",
+      "year":"2017",
+      "url":"/film/procesul",
+      "id":62,
+      "ytUrl":"https://www.youtube.com/embed/Fqmdic-FvQc"
+   },
+   {
+      "titleOriginal":"( ŢARA MOARTĂ )",
+      "titleRo":"ŢARA MOARTĂ",
+      "country":"ROMÂNIA ",
+      "year":"2017",
+      "url":"/film/tara-moarta",
+      "id":63,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( ULTIMUL CĂLDĂRAR )",
+      "titleRo":"ULTIMUL CĂLDĂRAR",
+      "country":"ROMÂNIA ",
+      "year":"2016",
+      "url":"/film/ultimul-caldarar",
+      "id":64,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( VÂNĂTOARE )",
+      "titleRo":"VÂNĂTOARE",
+      "country":"GERMANIA ",
+      "year":"2016",
+      "url":"/film/vanatoare",
+      "id":65,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( VARZĂ, CARTOFI ŞI ALŢI DEMONI )",
+      "titleRo":"VARZĂ, CARTOFI ŞI ALŢI DEMONI",
+      "country":"ROMÂNIA, GERMANIA  ",
+      "year":"2016",
+      "url":"/film/varza-cartofi-si-alti-demoni",
+      "id":66,
+      "ytUrl":"https://www.youtube.com/embed/DB-EL7hGIW0"
+   },
+   {
+      "titleOriginal":"( L’ARMÉE DES OMBRES )",
+      "titleRo":"ARMATA UMBRELOR",
+      "country":"FRANŢA ",
+      "year":"1969",
+      "url":"/film/armata-umbrelor",
+      "id":67,
+      "ytUrl":"https://www.youtube.com/embed/on38oTESbHU"
+   },
+   {
+      "titleOriginal":"( LE CERCLE ROUGE )",
+      "titleRo":"CERCUL ROŞU",
+      "country":"FRANŢA, ITALIA  ",
+      "year":"1970",
+      "url":"/film/cercul-rosu",
+      "id":68,
+      "ytUrl":"https://www.youtube.com/embed/7JQRV4becJE"
+   },
+   {
+      "titleOriginal":"( LE DOULOS )",
+      "titleRo":"DENUNŢĂTORUL",
+      "country":"FRANŢA, ITALIA  ",
+      "year":"1963",
+      "url":"/film/denuntatorul",
+      "id":69,
+      "ytUrl":"https://www.youtube.com/embed/Hf_x8ZfX-Dc"
+   },
+   {
+      "titleOriginal":"( LÉON MORIN, PRÊTRE )",
+      "titleRo":"LÉON MORIN, PREOT",
+      "country":"FRANŢA, ITALIA  ",
+      "year":"1961",
+      "url":"/film/leon-morin-preot",
+      "id":70,
+      "ytUrl":"https://www.youtube.com/embed/JaMF9GI_t5E"
+   },
+   {
+      "titleOriginal":"( BOB LE FLAMBEUR )",
+      "titleRo":"BOB LE FLAMBEUR",
+      "country":"FRANCE ",
+      "year":"1955",
+      "url":"/film/bob-le-flambeur",
+      "id":71,
+      "ytUrl":"https://www.youtube.com/embed/Wcg5m2a_Fr0"
+   },
+   {
+      "titleOriginal":"( LE SILENCE DE LA MER )",
+      "titleRo":"TĂCEREA MĂRII",
+      "country":"FRANŢA ",
+      "year":"1948",
+      "url":"/film/tacerea-marii",
+      "id":72,
+      "ytUrl":"https://www.youtube.com/embed/xVsunKIunss"
+   },
+   {
+      "titleOriginal":"( 24 HEURES DE LA VIE D’UN CLOWN )",
+      "titleRo":"24 HOURS IN THE LIFE OF A CLOWN",
+      "country":"FRANCE ",
+      "year":"1946",
+      "url":"/film/24-hours-life-clown",
+      "id":73,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( EVEN LOVERS GET THE BLUES )",
+      "titleRo":"CÂND AMANȚII N-AU CHEF",
+      "country":"BELGIA ",
+      "year":"2016",
+      "url":"/film/cand-amantii-n-au-chef",
+      "id":74,
+      "ytUrl":"https://www.youtube.com/embed/22iCaOkfDms"
+   },
+   {
+      "titleOriginal":"( CEUX QUI FONT LES REVOLUTIONS A MOITIE N'ONT FAIT QUE SE CREUSER UN TOMBEAU )",
+      "titleRo":"CEI CARE FAC REVOLUŢIE PE JUMĂTATE ÎŞI SAPĂ SINGURI GROAPA",
+      "country":"CANADA ",
+      "year":"2016",
+      "url":"/film/cei-care-fac-revolutie-pe-jumatate-isi-sapa-singuri-groapa",
+      "id":75,
+      "ytUrl":"https://www.youtube.com/embed/Ofa28yu5JqY"
+   },
+   {
+      "titleOriginal":"( DRÆBERNE FRA NIBE )",
+      "titleRo":"CRIMINALI DE PROVINCIE",
+      "country":"DANEMARCA  ",
+      "year":"2017",
+      "url":"/film/criminali-de-provincie",
+      "id":76,
+      "ytUrl":"https://www.youtube.com/embed/aGjmj7252dA"
+   },
+   {
+      "titleOriginal":"( HRISTO )",
+      "titleRo":"HRISTO",
+      "country":"BULGARIA, ITALIA ",
+      "year":"2016",
+      "url":"/film/hristo",
+      "id":77,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( JESÚS )",
+      "titleRo":"JESÚS",
+      "country":"FRANŢA, CHILE  ",
+      "year":"2016",
+      "url":"/film/jesus",
+      "id":78,
+      "ytUrl":"https://www.youtube.com/embed/REK5TI9djzY"
+   },
+   {
+      "titleOriginal":"( JAVDANEGI )",
+      "titleRo":"NEMURIRE",
+      "country":"IRAN ",
+      "year":"2016",
+      "url":"/film/nemurire",
+      "id":79,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( O ORNITÓLOGO )",
+      "titleRo":"ORNITOLOGUL",
+      "country":"PORTUGALIA, FRANŢA, BRAZILIA ",
+      "year":"2016",
+      "url":"/film/ornitologul",
+      "id":80,
+      "ytUrl":"https://www.youtube.com/embed/xnTKDi925CA"
+   },
+   {
+      "titleOriginal":"( PARK )",
+      "titleRo":"PARK",
+      "country":"GRECIA, POLONIA  ",
+      "year":"2016",
+      "url":"/film/park",
+      "id":81,
+      "ytUrl":"https://www.youtube.com/embed/tGEVOgrginc"
+   },
+   {
+      "titleOriginal":"( SAFARI )",
+      "titleRo":"SAFARI",
+      "country":"AUSTRIA, DANEMARCA, GERMANIA ",
+      "year":"2016",
+      "url":"/film/safari",
+      "id":82,
+      "ytUrl":"https://www.youtube.com/embed/tnNVlhVTW6M"
+   },
+   {
+      "titleOriginal":"( DEMONIOS TUS OJOS )",
+      "titleRo":"SORA MEA",
+      "country":"SPANIA, COLUMBIA  ",
+      "year":"2017",
+      "url":"/film/sora-mea",
+      "id":83,
+      "ytUrl":"https://www.youtube.com/embed/gE0MPsO89Z0"
+   },
+   {
+      "titleOriginal":"( ŠPÍNA )",
+      "titleRo":"TICĂLOŞIA",
+      "country":"SLOVACIA, CEHIA ",
+      "year":"2017",
+      "url":"/film/ticalosia",
+      "id":84,
+      "ytUrl":"https://www.youtube.com/embed/qfcJeeTzC5I"
+   },
+   {
+      "titleOriginal":"( TOM OF FINLAND )",
+      "titleRo":"TOM OF FINLAND",
+      "country":"FINLANDA, SUEDIA, DANEMARCA, GERMANIA, SUA, MAREA BRITANIE ",
+      "year":"2017",
+      "url":"/film/tom-finland",
+      "id":85,
+      "ytUrl":"https://www.youtube.com/embed/yYNMZRXwqfk"
+   },
+   {
+      "titleOriginal":"( SÁMI BLOOD )",
+      "titleRo":"SÂNGE DE LAPON",
+      "country":"SUEDIA, DANEMARCA, NORVEGIA ",
+      "year":"2016",
+      "url":"/film/sange-de-lapon",
+      "id":86,
+      "ytUrl":"https://www.youtube.com/embed/fdRxwAqK6G8"
+   },
+   {
+      "titleOriginal":"( ESTEBAN )",
+      "titleRo":"ESTEBAN",
+      "country":"CUBA ",
+      "year":"2016",
+      "url":"/film/esteban",
+      "id":87,
+      "ytUrl":"https://www.youtube.com/embed/cYwCngfWZQ8"
+   },
+   {
+      "titleOriginal":"( CIGARETTES ET CHOCOLAT CHAUD )",
+      "titleRo":"O FAMILIE FABULOASĂ",
+      "country":"FRANŢA ",
+      "year":"2016",
+      "url":"/film/o-familie-fabuloasa",
+      "id":88,
+      "ytUrl":"https://www.youtube.com/embed/_BKkFNxA7KA"
+   },
+   {
+      "titleOriginal":"( TOI THAY HOA VANG TREN CO XANH )",
+      "titleRo":"FLORI GALBENE ÎN CÂMPIA VERDE",
+      "country":"VIETNAM ",
+      "year":"2015",
+      "url":"/film/flori-galbene-campia-verde",
+      "id":89,
+      "ytUrl":"https://www.youtube.com/embed/eme60jiV_Qk"
+   },
+   {
+      "titleOriginal":"( PIATA LOĎ )",
+      "titleRo":"MICUL PORT",
+      "country":"SLOVACIA, CEHIA  ",
+      "year":"2017",
+      "url":"/film/micul-port",
+      "id":90,
+      "ytUrl":"https://www.youtube.com/embed/C0lShO4eemA"
+   },
+   {
+      "titleOriginal":"( OFFLINE - DAS LEBEN IST KEIN BONUSLEVEL )",
+      "titleRo":"OFFLINE - EŞTI PREGĂTIT PENTRU NIVELUL URMĂTOR?",
+      "country":"GERMANIA  ",
+      "year":"",
+      "url":"/film/offline-esti-pregatit-pentru-nivelul-urmator",
+      "id":91,
+      "ytUrl":""
+   },
+   {
+      "titleOriginal":"( MEESTER KIKKER )",
+      "titleRo":"PROFESORUL BROASCĂ",
+      "country":"OLANDA ",
+      "year":"2015",
+      "url":"/film/profesorul-broasca",
+      "id":92,
+      "ytUrl":"https://www.youtube.com/embed/t9iXCAt2bgs"
+   },
+   {
+      "titleOriginal":"( KÖNIG LAURIN )",
+      "titleRo":"REGELE PITICILOR",
+      "country":"GERMANIA ",
+      "year":"2016",
+      "url":"/film/regele-piticilor",
+      "id":93,
+      "ytUrl":"https://www.youtube.com/embed/SAIKu4IgJv8"
+   },
+   {
+      "titleOriginal":"( KING OF THE BELGIANS )",
+      "titleRo":"REGELE BELGIEI",
+      "country":"BELGIA, OLANDA, BULGARIA ",
+      "year":"2016",
+      "url":"/film/regele-belgiei",
+      "id":94,
+      "ytUrl":"https://www.youtube.com/embed/DJa5C0_CqQI"
+   },
+   {
+      "titleOriginal":"( QUE DIOS NOS PERDONE )",
+      "titleRo":"DUMNEZEU SĂ NE IERTE",
+      "country":"SPANIA ",
+      "year":"2016",
+      "url":"/film/dumnezeu-sa-ne-ierte",
+      "id":95,
+      "ytUrl":"https://www.youtube.com/embed/oDi16FTe66s"
+   },
+   {
+      "titleOriginal":"( DAO KHANONG )",
+      "titleRo":"CÂND SE LASĂ ÎNTUNERICUL",
+      "country":"THAILANDA, OLANDA, FRANŢA, QATAR ",
+      "year":"2016",
+      "url":"/film/cand-se-lasa-intunericul",
+      "id":96,
+      "ytUrl":"https://www.youtube.com/embed/yO5o8yO89TQ"
+   },
+   {
+      "titleOriginal":"( UNA MUJER FANTÁSTICA )",
+      "titleRo":"O FEMEIE FANTASTICĂ",
+      "country":"CHILE, SUA, GERMANIA, SPANIA  ",
+      "year":"2017",
+      "url":"/film/o-femeie-fantastica",
+      "id":97,
+      "ytUrl":"https://www.youtube.com/embed/SgDhpy9Z-NM"
+   },
+   {
+      "titleOriginal":"( GORAN )",
+      "titleRo":"GORAN",
+      "country":"CROAŢIA ",
+      "year":"2016",
+      "url":"/film/goran",
+      "id":98,
+      "ytUrl":"https://www.youtube.com/embed/cDMjkhFQxIg"
+   },
+   {
+      "titleOriginal":"( YAMATO (CALIFORNIA) )",
+      "titleRo":"YAMATO (CALIFORNIA)",
+      "country":"JAPONIA, SUA, OLANDA, TAIWAN  ",
+      "year":"2016",
+      "url":"/film/yamato-california",
+      "id":99,
+      "ytUrl":"https://www.youtube.com/embed/VdrVlDLIb8c"
+   }
+]

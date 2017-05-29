@@ -1,0 +1,72 @@
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+#root {
+    width: 99%;
+    float: left;
+}
+
+.scroll-component li {
+    list-style-type: none;
+    margin: 10px;
+    display: inline-block;
+}
+
+.scroll-component ul {
+    padding-top: 20px;
+}
+
+.display-as-list li {
+    display: block;
+    text-align: center;
+}
+
+.initialHeight {
+    height: 1000px;
+    width: 1%;
+    float: left;
+}
+
+.movie {
+    border: 1px solid #ccc;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    display: inline-block;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.movie:hover {
+    box-shadow: 0 4px 10px #888;
+    transition: box-shadow .5s;
+}
+
+.movie img {
+    height: 400px;
+    min-width: 300px;
+}
+
+.title {
+    width: 280px;
+    font-size: 17px;
+    font-weight: bold;
+    display: block;
+    margin: 10px;
+    font-family: sans-serif;
+}
+
+.year {
+    display: block;
+    width: 280px;
+    margin-left: 10px;
+    font-size: 16px;
+    color: #777;
+}
